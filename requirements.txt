@@ -2,3 +2,5 @@ python-dotenv
 
 langchain-core
 langchain-mistralai
+
+streamlit
